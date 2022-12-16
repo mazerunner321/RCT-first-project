@@ -1,5 +1,6 @@
+/* NAVBAR */
 #navtop {
-    background-color: rgb(201, 201, 201);
+    background-color: rgb(196, 196, 196);
     display: flex;
     justify-content: space-between;
 }
@@ -97,4 +98,76 @@
     justify-content: space-evenly;
     font-size: 18px;
     opacity: 0.9;
+}
+
+/* BODY CSS */
+#bellowYellow {
+    width: 80%;
+    margin: auto;
+    margin-top: 1%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#bellowYellow>div {
+    text-align: center;
+    font-weight: 700;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+#bellowYellow>div>img {
+    width: 150px;
+}
+
+#bigimg {
+    margin: auto;
+    margin-top: 2%;
+    width: 97%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(241, 241, 241);
+    overflow: hidden;
+    transition: transform 1s;
+}
+
+#bigimg:hover {
+    transform: scale(1.03);
+}
+
+#h {
+    margin-top: 1%;
+    text-align: center;
+    font-weight: 900;
+    font-size: 22px;
+    font-style: italic;
+}
+
+#belowh {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(2, auto);
+    cursor: pointer;
+}
+
+#belowh2 {
+    width: 97%;
+    margin: auto;
+    margin-top: 1%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 10px;
+    cursor: pointer;
+}
+
+#belowh3 {
+    width: 97%;
+    margin: auto;
+    margin-top: 1%;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    cursor: pointer;
 }

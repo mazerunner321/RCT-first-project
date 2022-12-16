@@ -2,14 +2,10 @@ import React from 'react';
 import {FaSearch, FaHeart} from 'react-icons/fa';
 import {BsBag} from "react-icons/bs";
 
+
+
 const Navbar = () => {
-    const carOne=[
-        {img:'https://images.bewakoof.com/uploads/grid/app/oof-sale-endstom-1x1-common-1671025899.gif'},
-        {img:'https://images.bewakoof.com/uploads/grid/app/revised-buy3-banner-1670840080.jpg'},
-        {img:'https://images.bewakoof.com/uploads/grid/app/revamped-banner-1x1-copy-04-1670505869.jpg'},
-        {img:'https://images.bewakoof.com/uploads/grid/app/winter-looks-common-1670589179.jpg'},
-        {img:'https://images.bewakoof.com/uploads/grid/app/b2g1-1x1-common-1670505865.jpg'}
-    ]
+    
 
   return (
     <div>

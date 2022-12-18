@@ -1,6 +1,6 @@
 /* NAVBAR */
 #navtop {
-    background-color: rgb(196, 196, 196);
+    background-color: rgb(237, 237, 237);
     display: flex;
     justify-content: space-between;
 }
@@ -69,12 +69,12 @@
     justify-content: space-around;
     align-items: center;
     border-radius: 10px;
-    background-color: rgb(214, 214, 214);
+    background-color: rgb(237, 237, 237);
 }
 
 #navmid div:nth-child(4)>input {
     width: 85%;
-    background-color: rgb(214, 214, 214);
+    background-color: rgb(237, 237, 237);
     opacity: 0.6;
 }
 
@@ -176,8 +176,6 @@
 
 #footer {
     margin-top: 10px;
-    margin-bottom: 10%;
-    height: 1200px;
     background-color: rgb(0, 0, 0);
     color: white;
 }
@@ -237,7 +235,62 @@
 }
 
 #belowline {
+    margin: auto;
     margin-top: 2%;
+    width: 80%;
     display: flex;
-    border: 1px solid white;
+    justify-content: space-between;
+}
+
+#belowline>div {
+    width: 20%;
+}
+
+#belowline>div>h2 {
+    color: rgb(255, 201, 136);
+    letter-spacing: 1.3px;
+    font-size: 20px;
+    margin-bottom: 10%;
+    font-weight: 700;
+}
+
+#belowline>div>h4 {
+    font-weight: 700;
+    margin-bottom: 1%;
+}
+
+#belowline>div>p {
+    font-size: 12px;
+    letter-spacing: 1.3px;
+}
+
+#belowline>div>h3 {
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 1.2px;
+    font-size: 23px;
+    color: rgb(72, 27, 255);
+}
+
+#footnote {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+#footnote>h2 {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+#footnote>p {
+    width: 95%;
+    margin: auto;
+    font-size: 13px;
+    letter-spacing: 1.2px;
+    margin-bottom: 1%;
+    line-height: 25px;
 }

@@ -1,6 +1,7 @@
 import React from 'react';
 import {FaSearch, FaHeart} from 'react-icons/fa';
 import {BsBag} from "react-icons/bs";
+import {Link} from "react-router-dom";
 
 
 
@@ -42,7 +43,7 @@ const Navbar = () => {
                 <input type="text" id="" placeholder='Search by product, category or collection'/>
             </div>
             <div>
-                <h2>Login</h2>
+                <Link to="/signin"><h2>Sign In</h2></Link>
                 <FaHeart />
                 <BsBag />
             </div>

@@ -1,15 +1,18 @@
 import React from 'react';
 import Carousel from 'better-react-carousel'
+import Navbar from './Navbar';
+import Footer from './Footer';
 
 const Body = () => {
   return (
     <div>
+        <Navbar />
         <br />
         {/* carousel Top */}
         <div id='carousel'>
             <Carousel cols={3} rows={1} gap={10} autoplay={5000} loop={true}>
                 <Carousel.Item>
-                    <img width="100%" src="https://images.bewakoof.com/uploads/grid/app/oof-sale-endstom-1x1-common-1671025899.gif" alt=''/>
+                    <img width="100%" src="https://images.bewakoof.com/uploads/grid/app/banner-1x1-christmas-Final-common-winterwear-1671215724.jpg" alt=''/>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img width="100%" src="https://images.bewakoof.com/uploads/grid/app/revised-buy3-banner-1670840080.jpg" alt=''/>
@@ -96,7 +99,6 @@ const Body = () => {
         </div>
 
         {/*Space for API data*/}
-        <div><h4>API</h4></div>
 
         <div id='h'>
             <h1>THE GANG'S FAVOURITE</h1>
@@ -123,7 +125,6 @@ const Body = () => {
         </div>
 
         {/*Space for API */}
-        <div>API</div>
 
         {/* Carousel bottom */}
         <div>
@@ -173,6 +174,8 @@ const Body = () => {
         <div>
             <img src="https://images.bewakoof.com/uploads/grid/app/Desktop-Strip-3-1669022420.jpg" alt="" style={{margin:'auto',width:'100%',marginTop:'1%'}}/>
         </div>
+
+        <Footer />
 
     </div>
   )

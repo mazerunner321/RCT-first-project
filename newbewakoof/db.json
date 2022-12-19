@@ -1,0 +1,262 @@
+{
+  "Product": [
+    {
+     "name": "Men's Brown PU Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-brown-solid-pu-jacket-jackets-498951-1665467948-1.jpg",
+     "price": "₹2599",
+     "extra": "₹2389 For TriBe Members"
+    },
+    {
+     "name": "Men's Black Windcheater",
+     "img": "https://images.bewakoof.com/t640/men-steel-grey-colorblock-oversized-jackets-501236-1669642022-1.jpg",
+     "price": "₹1499",
+     "extra": "₹1379 For TriBe Members"
+    },
+    {
+     "name": "Men's Steel Grey Windcheater",
+     "img": "https://images.bewakoof.com/t640/men-s-steel-grey-solid-windcheater-aw-22-491988-1663254962-1.jpg",
+     "price": "₹1899",
+     "extra": "₹1749 For TriBe Members"
+    },
+    {
+     "name": "Men's White & Black Color Block Oversized Anorak Windcheater",
+     "img": "https://images.bewakoof.com/t640/men-s-off-white-colorblock-windcheater-aw-22-491999-1661496276-1.jpg",
+     "price": "₹1499",
+     "extra": "₹1379 For TriBe Members"
+    },
+    {
+     "name": "Black Colorblock Windcheater Jacket",
+     "img": "https://images.bewakoof.com/t640/black-colorblock-windcheater-jacket-367108-1656169022-1.jpg",
+     "price": "₹1799",
+     "extra": "₹1659 For TriBe Members"
+    },
+    {
+     "name": "Men's Black Printed Contrast Sleeve Oversized Bomber Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-black-printed-contrast-sleeve-oversized-bomber-jacket-498981-1670414557-1.jpg",
+     "price": "₹2299",
+     "extra": "₹2119 For TriBe Members"
+    },
+    {
+     "name": "Men's Lime & Grey Color Block Oversized Reversible Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-steel-grey-colorblock-oversized-jackets-501236-1669642022-1.jpg",
+     "price": "₹2199",
+     "extra": "₹2019 For TriBe Members"
+    },
+    {
+     "name": "Men's Cobalt & Orange Color Block Oversized Reversible Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-lapis-blue-colorblock-puffer-reversible-jackets-498940-1669642569-1.jpg",
+     "price": "₹2199",
+     "extra": "₹2019 For TriBe Members"
+    },
+    {
+     "name": "Men's Grey Camo Printed Oversized Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹2299",
+     "extra": "₹2119 For TriBe Members"
+    },
+    {
+     "name": "Men's Black Plus Size Sleeveless Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-plus-size-black-solid-puffer-sleeveless-jacket-498964-1664429774-1.jpg",
+     "price": "₹1199",
+     "extra": "₹1119 For TriBe Members"
+    },
+    {
+     "name": "Men's Sage & Navy Plus Size Reversible Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-plus-size-navy-sage-solid-puffer-reversible-jacket-498968-1669640573-1.jpg",
+     "price": "₹2799",
+     "extra": "₹2579 For TriBe Members"
+    },
+    {
+     "name": "Men's Orange & Grey Plus Size Reversible Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/black-colorblock-windcheater-jacket-367108-1656169022-1.jpg",
+     "price": "₹2999",
+     "extra": "₹2759 For TriBe Members"
+    },
+    {
+     "name": "Men's Blue & Yellow Reversible Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-off-white-colorblock-windcheater-aw-22-491999-1661496276-1.jpg",
+     "price": "₹1899",
+     "extra": "₹1749 For TriBe Members"
+    },
+    {
+     "name": "Men's Black & White Reversible Oversized Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹2199",
+     "extra": "₹2019 For TriBe Members"
+    },
+    {
+     "name": "Men's Black PU Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-plus-size-navy-sage-solid-puffer-reversible-jacket-498968-1669640573-1.jpg",
+     "price": "₹3299",
+     "extra": "₹3039 For TriBe Members"
+    },
+    {
+     "name": "Men's Grey Sleeveless Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-steel-grey-solid-windcheater-aw-22-491988-1663254962-1.jpg",
+     "price": "₹1899",
+     "extra": "₹1749 For TriBe Members"
+    },
+    {
+     "name": "Men's Maroon & Blue Color Block Oversized Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-brown-solid-pu-jacket-jackets-498951-1665467948-1.jpg",
+     "price": "₹1407",
+     "extra": "₹1309 For TriBe Members"
+    },
+    {
+     "name": "Men's Black Puffer Jackets",
+     "img": "https://images.bewakoof.com/t640/men-s-off-white-colorblock-windcheater-aw-22-491999-1661496276-1.jpg",
+     "price": "₹1499",
+     "extra": "₹1379 For TriBe Members"
+    },
+    {
+     "name": "Men's Blue Oversized Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-plus-size-navy-sage-solid-puffer-reversible-jacket-498968-1669640573-1.jpg",
+     "price": "₹2199",
+     "extra": "₹2019 For TriBe Members"
+    },
+    {
+     "name": "Men's Olive Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹1299",
+     "extra": "₹1199 For TriBe Members"
+    },
+    {
+     "name": "Men's Green & White Seigneur Color Block Varsity Jacket",
+     "img": "https://images.bewakoof.com/t640/black-colorblock-windcheater-jacket-367108-1656169022-1.jpg",
+     "price": "₹2249",
+     "extra": "₹2119 For TriBe Members"
+    },
+    {
+     "name": "Men's Black Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-steel-grey-solid-windcheater-aw-22-491988-1663254962-1.jpg",
+     "price": "₹1599",
+     "extra": "₹1539 For TriBe Members"
+    },
+    {
+     "name": "Men's Bright Navy As Slowly As Color Block Windcheater",
+     "img": "https://images.bewakoof.com/t640/men-s-plus-size-navy-sage-solid-puffer-reversible-jacket-498968-1669640573-1.jpg",
+     "price": "₹1049",
+     "extra": "₹979F or TriBe Members"
+    },
+    {
+     "name": "Men's Burgandy Windcheater",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹1049",
+     "extra": "₹979F or TriBe Members"
+    },
+    {
+     "name": "Men's Black PU Jacket Jackets",
+     "img": "https://images.bewakoof.com/t640/men-s-off-white-colorblock-windcheater-aw-22-491999-1661496276-1.jpg",
+     "price": "₹2599",
+     "extra": "₹2389 For TriBe Members"
+    },
+    {
+     "name": "Men's Olive Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-brown-solid-pu-jacket-jackets-498951-1665467948-1.jpg",
+     "price": "₹1499",
+     "extra": "₹1379 For TriBe Members"
+    },
+    {
+     "name": "Men's Maroon Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/black-colorblock-windcheater-jacket-367108-1656169022-1.jpg",
+     "price": "₹1599",
+     "extra": "₹1469 For TriBe Members"
+    },
+    {
+     "name": "Men's Green Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹1599",
+     "extra": "₹1539 For TriBe Members"
+    },
+    {
+     "name": "Men's Maroon Plus Size Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-steel-grey-solid-windcheater-aw-22-491988-1663254962-1.jpg",
+     "price": "₹1799",
+     "extra": "₹1669 For TriBe Members"
+    },
+    {
+     "name": "Red Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹1049",
+     "extra": "₹979F or TriBe Members"
+    },
+    {
+     "name": "Grey Color Block Windcheater Jacket",
+     "img": "https://images.bewakoof.com/t640/black-colorblock-windcheater-jacket-367108-1656169022-1.jpg",
+     "price": "₹1799",
+     "extra": "₹1659 For TriBe Members"
+    },
+    {
+     "name": "Men's Black Plus Size PU Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-plus-size-navy-sage-solid-puffer-reversible-jacket-498968-1669640573-1.jpg",
+     "price": "₹3299",
+     "extra": "₹3069 For TriBe Members"
+    },
+    {
+     "name": "Olive Camo Bomber Jackets",
+     "img": "https://images.bewakoof.com/t640/men-s-off-white-colorblock-windcheater-aw-22-491999-1661496276-1.jpg",
+     "price": "₹999",
+     "extra": "₹929F or TriBe Members"
+    },
+    {
+     "name": "Deep Teal Color Block Puffer Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹1049",
+     "extra": "₹979F or TriBe Members"
+    },
+    {
+     "name": "Men's Black Scuba Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-steel-grey-solid-windcheater-aw-22-491988-1663254962-1.jpg",
+     "price": "₹1199",
+     "extra": "₹1119 For TriBe Members"
+    },
+    {
+     "name": "Men's Grey and Black Color Block Slim Fit Hooded Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-brown-solid-pu-jacket-jackets-498951-1665467948-1.jpg",
+     "price": "₹1139",
+     "extra": "₹1069 For TriBe Members"
+    },
+    {
+     "name": "Men's Grey Washed Denim Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹999",
+     "extra": "₹939F or TriBe Members"
+    },
+    {
+     "name": "Men's Grey Slim Fit Jacket",
+     "img": "https://images.bewakoof.com/t640/black-colorblock-windcheater-jacket-367108-1656169022-1.jpg",
+     "price": "₹1699",
+     "extra": "₹1609 For TriBe Members"
+    },
+    {
+     "name": "Men's Black Color Block Slim Fit Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-plus-size-navy-sage-solid-puffer-reversible-jacket-498968-1669640573-1.jpg",
+     "price": "₹1044",
+     "extra": "₹979F or TriBe Members"
+    },
+    {
+     "name": "Black Puffer Hoodie Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-off-white-colorblock-windcheater-aw-22-491999-1661496276-1.jpg",
+     "price": "₹1199",
+     "extra": "₹1119 For TriBe Members"
+    },
+    {
+     "name": "Men's Black & White Color Block Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-camou-oversized-fit-puffer-jackets-498983-1669641711-1.jpg",
+     "price": "₹1499",
+     "extra": "₹1379 For TriBe Members"
+    },
+    {
+     "name": "Men's Black Windcheater",
+     "img": "https://images.bewakoof.com/t640/men-s-steel-grey-solid-windcheater-aw-22-491988-1663254962-1.jpg",
+     "price": "₹999",
+     "extra": "₹929F or TriBe Members"
+    },
+    {
+     "name": "Men's Beige and Blue Camouflage Hooded Jacket",
+     "img": "https://images.bewakoof.com/t640/men-s-plus-size-navy-sage-solid-puffer-reversible-jacket-498968-1669640573-1.jpg",
+     "price": "₹1049",
+     "extra": "₹999F or TriBe Members"
+    }
+   ]
+}

@@ -27,9 +27,14 @@ const Navbar = () => {
         {/* navbar mid */}
         <div id='navmid'>
 
+            
             <div id='logo'>
-               <img src="https://i.ibb.co/0cbv5QB/DREZZ.png" alt="DREZZ" border="0" style={{borderRadius:'50%'}}/>
+               <Link to={"/"}>
+                 <img src="https://i.ibb.co/0cbv5QB/DREZZ.png" alt="DREZZ" border="0" style={{borderRadius:'50%'}}/>
+               </Link>
             </div>
+            
+
             <div>
                 <h1>DrezZ Fashion</h1>
             </div>
